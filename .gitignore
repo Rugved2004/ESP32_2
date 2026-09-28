@@ -1,0 +1,25 @@
+# KiCad lock files
+*.lck
+
+# KiCad backup files
+*-backups/
+*.kicad_prl
+*.bak
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# History folder (local editor history)
+.history/
+
+# Zip archives
+*.zip
+
+# Log files
+*.log
